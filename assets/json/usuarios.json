@@ -1,0 +1,8 @@
+[
+  {
+    "id_usuario": 1,
+    "usuario": "prueba@email.com",
+    "nombre": "prueba@email.com",
+    "password" : "mx01234"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 25,
+    "catdetname": "AGUASCALIENTES",
+    "catdetkey": "AS"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 26,
+    "catdetname": "BAJA CALIFORNIA",
+    "catdetkey": "BC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 27,
+    "catdetname": "BAJA CALIFORNIA SUR",
+    "catdetkey": "BS"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 28,
+    "catdetname": "CAMPECHE",
+    "catdetkey": "CC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 29,
+    "catdetname": "COAHUILA",
+    "catdetkey": "CL"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 30,
+    "catdetname": "COLIMA",
+    "catdetkey": "CM"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 31,
+    "catdetname": "CHIAPAS",
+    "catdetkey": "CS"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 32,
+    "catdetname": "CHIHUAHUA",
+    "catdetkey": "DF"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 33,
+    "catdetname": "CIUDAD DE MÉXICO",
+    "catdetkey": "DF"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 34,
+    "catdetname": "DURANGO",
+    "catdetkey": "DG"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 35,
+    "catdetname": "GUANAJUATO",
+    "catdetkey": "GT"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 36,
+    "catdetname": "GUERRERO",
+    "catdetkey": "GR"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 37,
+    "catdetname": "HIDALGO",
+    "catdetkey": "HC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 38,
+    "catdetname": "JALISCO",
+    "catdetkey": "JC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 39,
+    "catdetname": "ESTADO DE MÉXICO",
+    "catdetkey": "MC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 40,
+    "catdetname": "MICHOACAN",
+    "catdetkey": "MC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 41,
+    "catdetname": "MORELOS",
+    "catdetkey": "MS"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 42,
+    "catdetname": "NAYARIT",
+    "catdetkey": "NT"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 43,
+    "catdetname": "NUEVO LEÓN",
+    "catdetkey": "NL"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 44,
+    "catdetname": "OAXACA",
+    "catdetkey": "OC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 45,
+    "catdetname": "PUEBLA",
+    "catdetkey": "PL"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 46,
+    "catdetname": "QUERETARO",
+    "catdetkey": "QT"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 47,
+    "catdetname": "QUINTANA ROO",
+    "catdetkey": "QR"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 48,
+    "catdetname": "SAN LUIS POTOSI",
+    "catdetkey": "SP"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 49,
+    "catdetname": "SINALOA",
+    "catdetkey": "SL"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 50,
+    "catdetname": "SONORA",
+    "catdetkey": "SR"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 51,
+    "catdetname": "TABASCO",
+    "catdetkey": "TC"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 52,
+    "catdetname": "TAMAULIPAS",
+    "catdetkey": "TS"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 53,
+    "catdetname": "TLAXCALA",
+    "catdetkey": "TL"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 54,
+    "catdetname": "VERACRUZ",
+    "catdetkey": "VZ"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 55,
+    "catdetname": "YUCATÁN",
+    "catdetkey": "YN"
+  },
+  {
+    "catid": 6,
+    "catname": "ENTIDADES",
+    "catdetid": 56,
+    "catdetname": "ZACATECAS",
+    "catdetkey": "ZS"
+  }
+]
